@@ -1,0 +1,33 @@
+h2 {
+  font-size: 30px;
+  background: #eee;
+  margin: 20px auto;
+  color: orange; }
+
+#btn {
+  border-style: none;
+  margin: 20px;
+  padding: 20px;
+  background-color: lightgreen;
+  border-radius: 50%; }
+
+#img1 {
+  width: 40%;
+  display: block; }
+
+.example {
+  display: grid;
+  transition: all 0.5s;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  background: linear-gradient(to bottom, white, black); }
+
+.btn-blue {
+  border-style: none;
+  padding: 20px 20px;
+  background-color: lightblue;
+  color: white;
+  font-size: 20px; }
+
