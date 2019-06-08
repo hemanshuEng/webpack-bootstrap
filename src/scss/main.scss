@@ -1,5 +1,5 @@
 @import "./color";
-
+@import "node_modules/bootstrap/scss/bootstrap";
 h2 {
   font-size: 30px;
   background: $secondary_color;
@@ -24,10 +24,10 @@ h2 {
   user-select: none;
   background: linear-gradient(to bottom, white, black);
 }
-.btn-blue{
-  border-style:none;
+.btn-blue {
+  border-style: none;
   padding: 20px 20px;
   background-color: lightblue;
-  color:white;
+  color: white;
   font-size: 20px;
 }

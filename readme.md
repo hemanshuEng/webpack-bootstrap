@@ -3,6 +3,7 @@
 1. added image,svg loader
 2. added html loader
 3. need to add minified css (css nano)
+4. bootstap added for custom bootstrap developement
 clone git git repository  
 
 `npm install`
